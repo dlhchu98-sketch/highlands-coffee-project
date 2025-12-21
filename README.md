@@ -1,1 +1,2 @@
-# highlands-coffee-project
+- Hiền : Thiết kế giao diện đóng gói giao diện cập  nhật  vào thư mục frontend
+- Ánh : Xử lí dữ liệu code cập nhật vào thư mục backend
