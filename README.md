@@ -30,7 +30,7 @@ Mô tả chung dự án và phân công công việc
 **Phân công công việc**
 - Ánh : Code chính 
 - Nhi:Làm Sile+ Báo cáo 
-- Hân: Phụ trách dữ liệu – chuẩn bị dữ liệu gốc, làm sạch, chuẩn hoá và xuất dữ liệu đầu vào cho hệ thống
+- Hân: Phụ trách dữ liệu – chuẩn bị dữ liệu gốc, làm sạch, chuẩn hoá và xuất dữ liệu đầu vào cho hệ thống, báo cáo 
 - Hiền: Code giao diện 
 
 **Hướng dẫn nhanh**
